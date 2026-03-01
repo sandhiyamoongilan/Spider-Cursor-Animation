@@ -56,7 +56,7 @@ This project demonstrates how to create a dynamic animated cursor that follows m
 ## Author
 
 **M. Sandhiya**  
-Computer Science & Engineering  
+Computer Science  
 Aspiring Front-End Developer | JavaScript Enthusiast  
 
 GitHub: https://github.com/sandhiyamoongilan  
